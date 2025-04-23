@@ -2,10 +2,10 @@
   "analyticsCode": "",
   "pageLayout": "two-column",
   "basics": {
-    "name": "MiraHikari",
+    "name": "DasHund007",
     "label": "Senior Full Stack Developer",
     "image": "/avatar.png",
-    "email": "mirahikari@gcxstudio.cn",
+    "email": "DasHund007@gcxstudio.cn",
     "url": "https://www.gcxstudio.cn",
     "summary": "Born in 2010, I primarily work with TypeScript and JavaScript for full-stack development, and enjoy working with various technologies.",
     "theme": "red",
@@ -19,7 +19,7 @@
       {
         "network": "Bilibili",
         "icon": "ri:bilibili-line",
-        "username": "MiraHikari",
+        "username": "DasHund007",
         "url": "https://space.bilibili.com/480025691"
       },
       {
@@ -31,8 +31,8 @@
       {
         "network": "GitHub",
         "icon": "mdi:github",
-        "username": "MiraHikari",
-        "url": "https://github.com/MiraHikari"
+        "username": "DasHund007",
+        "url": "https://github.com/DasHund007"
       }
     ],
     "beian": {
@@ -491,7 +491,7 @@
   ],
   "references": [
     {
-      "name": "MiraHikari",
+      "name": "DasHund007",
       "reference": "Reference…"
     }
   ],
@@ -512,7 +512,7 @@
         "🚀 100% open source, fully based on Cloudflare."
       ],
       "url": "https://what-the-fuck.sbs",
-      "github": "https://github.com/MiraHikari/cloudflare-vmail"
+      "github": "https://github.com/DasHund007/cloudflare-vmail"
     },
     {
       "name": "Riddle Town Hunt 2",
