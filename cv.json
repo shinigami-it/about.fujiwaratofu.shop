@@ -127,20 +127,20 @@
       "endDate": null
     }
   ],
-  "certificates": [  
+  "certificates": [
+    {
+      "name": "Certified FiveM Developer",
+      "date": "2021-11-27",
+      "url": "https://fivem.net",
+      "issuer": "FiveM Community",
+      "description": "Certified in FiveM server development and Lua scripting, specializing in custom server configurations and gameplay mechanics."
+    },
     {
       "name": "JavaScript Full-Stack Developer",
       "date": "2022-04-01",
       "url": "https://www.ihk.de/aachen",
       "issuer": "IHK Aachen",
       "description": "Certified full-stack developer specializing in JavaScript, Node.js, and modern web frameworks."
-    },
-    {
-      "name": "Certified FiveM Developer",
-      "date": "2022-11-20",
-      "url": "https://fivem.net",
-      "issuer": "FiveM Community",
-      "description": "Certified in FiveM server development and Lua scripting, specializing in custom server configurations and gameplay mechanics."
     }
   ],
   "work": [
@@ -149,30 +149,56 @@
       "position": "Founder & Full-stack Developer",
       "location_type": "Remote",
       "location": "JP",
-      "url": "https://www.fujiwaratofu.shop",
+      "url": "https://www.yukisama.de",
       "startDate": "2021-01-01",
       "endDate": null,
-      "summary": "Developing high-availability full-stack projects.",
+      "summary": "Leading Shinigami, an IT service company specializing in full-stack web development, server hosting, 3D rendering, and IT education. Providing customized website solutions, e-commerce platforms, and reliable hosting services to clients worldwide.",
       "highlights": [
-        "Enhanced internal workflow efficiency by 30%."
+        "Enhanced internal workflow efficiency by 30% through automation tools.",
+        "Delivered 50+ client projects.",
+        "AI integration in custom Discord bots for enhanced functionality."
       ],
       "responsibilities": [
-        "Developed and maintained backend services using Node.js and Golang."
+        "Lead full-stack development projects from concept to deployment.",
+        "Design and development of modern websites and e-commerce solutions",
+        "Architect and deploy Discord bots and automation tools to enhance user engagement and operational efficiency."
       ],
       "achievements": [
-        "Implemented a cloud drive and verification code system."
+        "Developed and deployed Discord bots and websites for 50+ clients, improving user engagement by 40% and automating key workflows.",
+        "Built scalable e-commerce solutions that increased client revenue by up to 200%.",
+        "Reduced server costs through optimized cloud infrastructure."
       ],
       "skills": {
-        "PHP": "simple-icons:php",
-        "Node": "ri:nodejs-line",
-        "Golang": "simple-icons:go",
-        "Next.js": "ri:nextjs-fill",
-        "React": "mdi:react",
-        "SQL": "simple-icons:mysql",
+        "3D Rendering": "mdi:cube-outline",
+        "Astro": "simple-icons:astro",
+        "Bash": "mdi:console",
+        "Blender": "simple-icons:blender",
+        "CSS": "ri:css3-fill",
+        "C#": "simple-icons:csharp",
+        "C++": "simple-icons:cplusplus",
+        "Discord.js": "simple-icons:discord",
+        "Docker": "mdi:docker",
+        "Express": "simple-icons:express",
         "Git": "mdi:git",
         "GitHub": "mdi:github",
-        "NestJS": "simple-icons:nestjs",
-        "Vue": "mdi:vuejs"
+        "HTML": "simple-icons:html5",
+        "JavaScript": "simple-icons:javascript",
+        "JSON": "mdi:code-json",
+        "Linux": "simple-icons:linux",
+        "Lua": "simple-icons:lua",
+        "MongoDB": "simple-icons:mongodb",
+        "Next.js": "simple-icons:nextdotjs",
+        "Node": "simple-icons:nodedotjs",
+        "PHP": "simple-icons:php",
+        "Python": "simple-icons:python",
+        "React": "mdi:react",
+        "REST API": "mdi:api",
+        "Shell": "simple-icons:shell",
+        "SQL": "simple-icons:mysql",
+        "Tailwind": "mdi:tailwind",
+        "TypeScript": "simple-icons:typescript",
+        "WebSockets": "mdi:web",
+        "WordPress": "ri:wordpress-fill"
       }
     },
     {
@@ -180,100 +206,353 @@
       "position": "Team Leader & Developer",
       "location_type": "Remote",
       "location": "JP",
-      "url": "https://rth2.gcxstudio.JP",
+      "url": "https://www.fujiwaratofu.shop",
       "startDate": "2023-07-22",
       "endDate": null,
-      "summary": "Led page design and account systems.",
+      "summary": "Leading the development of racing community platforms, Discord bots, and managing the racing team in Assetto Corsa.",
       "highlights": [
-        "Completed 95% of project content."
+        "Grew community to 500+ members through engagement initiatives.",
+        "Implemented automated race coordination systems reducing admin work by 60%.",
+        "Developed real-time race tracking solutions enhancing viewer experience."
       ],
       "responsibilities": [
-        "Developed complete pages.",
-        "Integrated user-facing elements with server-side logic."
+        "Designed and developed the team's website using modern web technologies.",
+        "Created Discord bots for race coordination and result tracking",
+        "Managed community engagement and organized competitive racing events"
       ],
       "achievements": [
-        "Ensured smooth project execution."
+        "Increased race participation by 75% through improved automation tools.",
+        "Reduced result calculation time from 30 minutes to instant with custom bots.",
+        "Enhanced community retention by 40% through engagement features."
       ],
       "skills": {
-        "HTML": "simple-icons:html5",
-        "CSS": "ri:css3-fill",
-        "JavaScript": "simple-icons:javascript",
-        "TypeScript": "simple-icons:typescript",
-        "Vite": "simple-icons:vite",
-        "Node": "ri:nodejs-line",
-        "Docker": "mdi:docker",
-        "WordPress": "ri:wordpress-fill",
         "Astro": "simple-icons:astro",
+        "Bash": "mdi:console",
+        "CSS": "ri:css3-fill",
+        "Discord.js": "simple-icons:discord",
+        "Docker": "mdi:docker",
+        "Express": "simple-icons:express",
+        "Git": "mdi:git",
+        "GitHub": "mdi:github",
+        "HTML": "simple-icons:html5",
+        "JavaScript": "simple-icons:javascript",
+        "JSON": "mdi:code-json",
+        "Linux": "simple-icons:linux",
+        "MongoDB": "simple-icons:mongodb",
+        "Next.js": "simple-icons:nextdotjs",
+        "Node": "simple-icons:nodedotjs",
+        "PHP": "simple-icons:php",
+        "Python": "simple-icons:python",
+        "React": "mdi:react",
+        "REST API": "mdi:api",
         "SQL": "simple-icons:mysql",
         "Tailwind": "mdi:tailwind",
-        "React": "mdi:react",
+        "TypeScript": "simple-icons:typescript",
+        "WebSockets": "mdi:web"
+      }
+    },
+    {
+      "name": "Next World Rp",
+      "position": "Head Developer",
+      "location_type": "Remote",
+      "location": "UK",
+      "url": "https://discord.gg/fK57snTbnG",
+      "startDate": "2021-10-27",
+      "endDate": "2023-1-13",
+      "summary": "Led development for a QBCore-based FiveM RP server, architecting custom systems and optimizing performance for 200+ daily players. Spearheaded technical direction while mentoring junior developers.",
+      "highlights": [
+        "Designed custom QBCore resources enhancing roleplay immersion (e.g. advanced jobs, housing, and economy systems)",
+        "Reduced server lag through Lua script optimization and load balancing",
+        "Implemented CI/CD pipelines reducing update deployment time"
+      ],
+      "responsibilities": [
+        "Architected core server infrastructure and custom QBCore modifications",
+        "Managed a team of 3 developers implementing gameplay features and bug fixes",
+        "Optimized database queries and server-side logic for 200+ concurrent players"
+      ],
+      "achievements": [
+        "Grew player base to 200+ active users through technical improvements",
+        "Decreased server crashes via custom monitoring tools and error handling",
+        "Pioneered unique RP systems praised by the FiveM community (e.g. web-based admin-tools)"
+      ],
+      "skills": {
+        "CSS": "ri:css3-fill",
+        "C#": "simple-icons:csharp",
+        "C++": "simple-icons:cplusplus",
+        "Discord.js": "simple-icons:discord",
+        "Docker": "mdi:docker",
+        "Git": "mdi:git",
         "GitHub": "mdi:github",
-        "Git": "mdi:git"
+        "HTML": "simple-icons:html5",
+        "JavaScript": "simple-icons:javascript",
+        "JSON": "mdi:code-json",
+        "Linux": "simple-icons:linux",
+        "Lua": "simple-icons:lua",
+        "MongoDB": "simple-icons:mongodb",
+        "Next.js": "simple-icons:nextdotjs",
+        "Node": "simple-icons:nodedotjs",
+        "PHP": "simple-icons:php",
+        "Python": "simple-icons:python",
+        "React": "mdi:react",
+        "REST API": "mdi:api",
+        "Shell": "simple-icons:shell",
+        "SQL": "simple-icons:mysql",
+        "Tailwind": "mdi:tailwind",
+        "TypeScript": "simple-icons:typescript",
+        "WebSockets": "mdi:web",
+        "WordPress": "ri:wordpress-fill"
       }
     }
   ],
   "skills": [
     {
-      "name": "HTML",
-      "icon": "simple-icons:html5",
+      "name": "3D Rendering",
+      "icon": "mdi:cube-outline",
       "level": "Intermediate",
       "keywords": [
-        "Web Development",
-        "Frontend"
+        "Modeling",
+        "Visualization",
+        "Blender Integration"
+      ]
+    },
+    {
+      "name": "Astro",
+      "icon": "simple-icons:astro",
+      "level": "Intermediate",
+      "keywords": [
+        "Static Sites",
+        "SSG",
+        "Content-focused"
+      ]
+    },
+    {
+      "name": "Bash",
+      "icon": "mdi:console",
+      "level": "Intermediate",
+      "keywords": [
+        "Shell Scripting",
+        "Automation",
+        "Linux Administration"
+      ]
+    },
+    {
+      "name": "Blender",
+      "icon": "simple-icons:blender",
+      "level": "Intermediate",
+      "keywords": [
+        "3D Modeling",
+        "Animation",
+        "Rendering"
       ]
     },
     {
       "name": "CSS",
       "icon": "ri:css3-fill",
+      "level": "Advanced",
+      "keywords": [
+        "Styling",
+        "Responsive Design",
+        "Animations"
+      ]
+    },
+    {
+      "name": "C#",
+      "icon": "simple-icons:csharp",
       "level": "Intermediate",
       "keywords": [
-        "Web Development",
-        "Frontend",
-        "Responsive Design"
+        "Game Development",
+        ".NET",
+        "Unity"
+      ]
+    },
+    {
+      "name": "C++",
+      "icon": "simple-icons:cplusplus",
+      "level": "Intermediate",
+      "keywords": [
+        "Systems Programming",
+        "Game Engines",
+        "High Performance"
+      ]
+    },
+    {
+      "name": "Discord.js",
+      "icon": "simple-icons:discord",
+      "level": "Advanced",
+      "keywords": [
+        "Bot Development",
+        "API Integration",
+        "Community Tools"
+      ]
+    },
+    {
+      "name": "Docker",
+      "icon": "mdi:docker",
+      "level": "Intermediate",
+      "keywords": [
+        "Containerization",
+        "DevOps",
+        "Deployment"
+      ]
+    },
+    {
+      "name": "Express",
+      "icon": "simple-icons:express",
+      "level": "Intermediate",
+      "keywords": [
+        "Backend",
+        "REST APIs",
+        "Server-side"
+      ]
+    },
+    {
+      "name": "Git",
+      "icon": "mdi:git",
+      "level": "Advanced",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Workflow"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "icon": "mdi:github",
+      "level": "Advanced",
+      "keywords": [
+        "CI/CD",
+        "Open Source",
+        "Project Management"
+      ]
+    },
+    {
+      "name": "HTML",
+      "icon": "simple-icons:html5",
+      "level": "Advanced",
+      "keywords": [
+        "Web Structure",
+        "Semantic Markup",
+        "Accessibility"
       ]
     },
     {
       "name": "JavaScript",
       "icon": "simple-icons:javascript",
-      "level": "Expert",
+      "level": "Advanced",
       "keywords": [
-        "Web Development",
         "Frontend",
-        "Backend",
+        "Web Apps",
+        "ES6+"
+      ]
+    },
+    {
+      "name": "JSON",
+      "icon": "mdi:code-json",
+      "level": "Advanced",
+      "keywords": [
+        "Data Exchange",
+        "Configuration",
+        "APIs"
+      ]
+    },
+    {
+      "name": "Linux",
+      "icon": "simple-icons:linux",
+      "level": "Intermediate",
+      "keywords": [
+        "Sysadmin",
+        "Servers",
+        "Bash"
+      ]
+    },
+    {
+      "name": "Lua",
+      "icon": "simple-icons:lua",
+      "level": "Intermediate",
+      "keywords": [
+        "Scripting",
+        "Game Mods",
+        "FiveM"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "icon": "simple-icons:mongodb",
+      "level": "Intermediate",
+      "keywords": [
+        "NoSQL",
+        "Databases",
+        "Scalability"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "icon": "simple-icons:nextdotjs",
+      "level": "Intermediate",
+      "keywords": [
+        "React Framework",
+        "SSR",
         "Fullstack"
       ]
     },
     {
-      "name": "Tailwind",
-      "icon": "mdi:tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "icon": "simple-icons:typescript",
-      "level": "Expert",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
       "name": "Node",
-      "icon": "ri:nodejs-line",
+      "icon": "simple-icons:nodedotjs",
+      "level": "Advanced",
+      "keywords": [
+        "Backend",
+        "JavaScript Runtime",
+        "NPM"
+      ]
+    },
+    {
+      "name": "PHP",
+      "icon": "simple-icons:php",
       "level": "Intermediate",
       "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
+        "WordPress",
+        "Server-side",
+        "Dynamic Websites"
+      ]
+    },
+    {
+      "name": "Python",
+      "icon": "simple-icons:python",
+      "level": "Intermediate",
+      "keywords": [
+        "Automation",
+        "Scripting",
+        "Data Processing"
+      ]
+    },
+    {
+      "name": "React",
+      "icon": "mdi:react",
+      "level": "Intermediate",
+      "keywords": [
+        "Frontend",
+        "Components",
+        "Hooks"
+      ]
+    },
+    {
+      "name": "REST API",
+      "icon": "mdi:api",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Services",
+        "Integration",
+        "Endpoints"
+      ]
+    },
+    {
+      "name": "Shell",
+      "icon": "simple-icons:shell",
+      "level": "Intermediate",
+      "keywords": [
+        "CLI",
+        "Scripting",
+        "Automation"
       ]
     },
     {
@@ -282,104 +561,38 @@
       "level": "Intermediate",
       "keywords": [
         "Databases",
-        "SQL",
-        "Data Storage",
-        "Backend"
+        "Queries",
+        "Relationships"
       ]
     },
     {
-      "name": "MongoDB",
-      "icon": "simple-icons:mongodb",
+      "name": "Tailwind",
+      "icon": "mdi:tailwind",
       "level": "Intermediate",
       "keywords": [
-        "Databases",
-        "File",
-        "Data Storage",
-        "Backend"
+        "Utility-first CSS",
+        "Rapid Prototyping",
+        "Responsive"
       ]
     },
     {
-      "name": "Git",
-      "icon": "mdi:git",
+      "name": "TypeScript",
+      "icon": "simple-icons:typescript",
       "level": "Intermediate",
       "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
+        "Typed JavaScript",
+        "Scalability",
+        "Tooling"
       ]
     },
     {
-      "name": "GitHub",
-      "icon": "mdi:github",
-      "level": "Expert",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code",
-        "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "icon": "ri:nextjs-line",
+      "name": "WebSockets",
+      "icon": "mdi:web",
       "level": "Intermediate",
       "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "icon": "mdi:react",
-      "level": "Expert",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
-    },
-    {
-      "name": "Vue",
-      "icon": "mdi:vuejs",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
-    },
-    {
-      "name": "Docker",
-      "icon": "mdi:docker",
-      "level": "Intermediate",
-      "keywords": [
-        "Virtual Environments",
-        "Backend"
-      ]
-    },
-    {
-      "name": "NestJS",
-      "icon": "simple-icons:nestjs",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "IOC"
-      ]
-    },
-    {
-      "name": "Vite",
-      "icon": "simple-icons:vite",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Build Tool"
+        "Real-time",
+        "Bidirectional",
+        "Live Data"
       ]
     },
     {
@@ -387,202 +600,121 @@
       "icon": "ri:wordpress-fill",
       "level": "Intermediate",
       "keywords": [
-        "PHP",
-        "Fullstack",
-        "Frontend"
-      ]
-    },
-    {
-      "name": "Golang",
-      "icon": "simple-icons:go",
-      "level": "Beginner",
-      "keywords": [
-        "Backend",
-        "Cloud Service"
-      ]
-    },
-    {
-      "name": "Astro",
-      "icon": "simple-icons:astro",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "PHP",
-      "icon": "simple-icons:php",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "Fullstack"
-      ]
-    },
-    {
-      "name": "Nginx",
-      "icon": "simple-icons:nginx",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "Web Server"
-      ]
-    },
-    {
-      "name": "Tauri",
-      "icon": "simple-icons:tauri",
-      "level": "Beginner",
-      "keywords": [
-        "Desktop App",
-        "Rust",
-        "Webview"
-      ]
-    },
-    {
-      "name": "Rust",
-      "icon": "simple-icons:rust",
-      "level": "Beginner",
-      "keywords": [
-        "Desktop App",
-        "Webview"
-      ]
-    },
-    {
-      "name": "Socket.IO",
-      "icon": "simple-icons:socketdotio",
-      "level": "Beginner",
-      "keywords": [
-        "Realtime",
-        "Websocket"
-      ]
-    },
-    {
-      "name": "Electron",
-      "icon": "simple-icons:electron",
-      "level": "Beginner",
-      "keywords": [
-        "Desktop App",
-        "Webview"
-      ]
-    },
-    {
-      "name": "Shell",
-      "icon": "simple-icons:shell",
-      "level": "Intermediate",
-      "keywords": [
-        "Scripting",
-        "Automation"
-      ]
-    },
-    {
-      "name": "Linux",
-      "icon": "simple-icons:linux",
-      "level": "Intermediate",
-      "keywords": [
-        "OS",
-        "Scripting",
-        "Automation"
-      ]
-    },
-    {
-      "name": "Vercel",
-      "icon": "simple-icons:vercel",
-      "level": "Intermediate",
-      "keywords": [
-        "Serverless",
-        "Static Site Hosting"
-      ]
-    },
-    {
-      "name": "Netlify",
-      "icon": "simple-icons:netlify",
-      "level": "Intermediate",
-      "keywords": [
-        "Serverless",
-        "Static Site Hosting"
-      ]
-    },
-    {
-      "name": "Tencent Cloud",
-      "icon": "simple-icons:tencentqq",
-      "level": "Intermediate",
-      "keywords": [
-        "Cloud Service"
-      ]
-    },
-    {
-      "name": "Cloudflare Edge Functions",
-      "icon": "simple-icons:cloudflare",
-      "level": "Expert",
-      "keywords": [
-        "Serverless",
-        "Edge Computing"
+        "CMS",
+        "Themes",
+        "Plugins"
       ]
     }
   ],
   "languages": [
     {
-      "language": "Chinese",
-      "fluency": "Native speaker"
+      "language": "German",
+      "fluency": "Native"
     },
     {
       "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Basic"
+    },
+    {
+      "language": "Bosnian",
       "fluency": "Intermediate"
+    },
+    {
+      "language": "Turkish",
+      "fluency": "Beginner"
     }
   ],
   "interests": [
     {
       "name": "Technology",
       "keywords": [
-        "AI",
-        "Blockchain"
+        "AI", 
+        "Blockchain",
+        "Web3"
+      ]
+    },
+    {
+      "name": "Programming",
+      "keywords": [
+        "JavaScript",
+        "TypeScript", 
+        "React",
+        "Discord Bots"
+      ]
+    },
+    {
+      "name": "Sim Racing",
+      "keywords": [
+        "Assetto Corsa",
+        "Competitive Leagues", 
+        "Car Tuning"
+      ]
+    },
+    {
+      "name": "Music",
+      "keywords": [
+        "Eurobeat",
+        "J-Pop",
+        "Video Game OSTs",
+        "Piano Covers"
+      ]
+    },
+    {
+      "name": "Piano",
+      "keywords": [
+        "Classical",
+        "Sheet Music"
+      ]
+    },
+    {
+      "name": "Gaming",
+      "keywords": [
+        "Simulator",
+        "Retro Games"
       ]
     }
   ],
-  "references": [
-    {
-      "name": "DasHund007",
-      "reference": "Reference…"
-    }
-  ],
+  "references": [],
   "projects": [
     {
-      "name": "Cloudflare Vmail",
+      "name": "Shinigami Discord-Bot",
       "image": {
-        "url": "https://i0.hdslb.com/bfs/article/985e2caa8266dee4b9861ee6a341886d480025691.png@1e_1c.webp",
+        "url": "https://i.imgur.com/Lpgy2lp.jpeg",
         "position": "container",
-        "dark": "https://i0.hdslb.com/bfs/article/4d0bf8a784d22e54e3e61763c361c9ef480025691.png@100q_1e_1c.webp"
+        "dark": "https://i.imgur.com/Lpgy2lp.jpeg"
       },
       "isActive": true,
-      "description": "An open source temporary email tool, fully on Cloudflare. Inspired by oiov/vmail",
+      "description": "Multifunctional Discord bot integrating Twitch, Steam, and custom server management features with real-time notifications and interactive tools.",
       "highlights": [
-        "🎯 Privacy-friendly, no registration required, out-of-the-box",
-        "✨ Support saving passwords and retrieving email addresses",
-        "😄 Support multiple domain name suffixes",
-        "🚀 100% open source, fully based on Cloudflare."
+        "Developed Twitch integration for live stream alerts and custom command responses",
+        "Implemented Steam API news fetcher for game updates and sales notifications",
+        "Built modular command system supporting utility and entertainment features",
+        "Designed auto-moderation tools reducing manual admin work"
       ],
-      "url": "https://what-the-fuck.sbs",
-      "github": "https://github.com/DasHund007/cloudflare-vmail"
+      "url": "https://www.fujiwaratofu.shop",
+      "github": "https://github.com/shinigami-it/discord-bot"
     },
     {
-      "name": "Riddle Town Hunt 2",
+      "name": "Yuki-Sama AI",
       "image": {
-        "url": "https://rth2-webstatic.gbclstudio.JP/wp-content/uploads/2024/02/1707656250-76b2b0d2c94824e89a2b8b2c7d1c6afe.png",
-        "position": "background"
+        "url": "https://i.imgur.com/swJYug5.jpeg",
+        "position": "container",
+        "dark": "https://i.imgur.com/swJYug5.jpeg"
       },
-      "isActive": false,
-      "description": "Public decryption activity in the form of Puzzle Hunt.",
+      "isActive": true,
+      "description": "VTuber-style AI assistant with game integration, natural language processing, and multi-platform API connectivity for dynamic interactions.",
       "highlights": [
-        "👌 More than 1000 people participated, system runs normally",
-        "😮‍ Use headless CMS: WordPress to storage and manage contents, dynamically render page",
-        "😊 Windows-like interface",
-        "💕 Based on Astro"
+        "Training custom VTuber model with real-time facial animation and voice synthesis",
+        "Developing game integration system for interactive AI participation",
+        "Implementing Discord API bridge for seamless community interactions",
+        "Building machine learning pipeline for continuous conversational improvement"
       ],
-      "url": "https://rth2.gcxstudio.JP/"
+      "url": "https://www.yukisama.de",
+      "github": "https://github.com/yukisama0/Yuki-sama"
     }
   ]
 }
