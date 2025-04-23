@@ -5,98 +5,152 @@
     "name": "DasHund007",
     "label": "Senior Full Stack Developer",
     "image": "/avatar.png",
-    "email": "DasHund007@gcxstudio.cn",
-    "url": "https://www.gcxstudio.cn",
-    "summary": "Born in 2010, I primarily work with TypeScript and JavaScript for full-stack development, and enjoy working with various technologies.",
-    "theme": "red",
+    "email": "DasHund007@gmail.com",
+    "url": "https://www.fujiwaratofu.shop",
+    "summary": "Born in 2006, i primarily work with JavaScript, SQL, Docker, Python & C#, for full-stack development, having my own multiple servers and love too work with a lot of stuff.",
+    "theme": "green",
     "location": {
-      "address": "Nanchang",
-      "city": "Jiangxi Province",
-      "countryCode": "CN",
-      "region": "China"
+      "address": "Shibukawa",
+      "city": "Gunma",
+      "countryCode": "JP",
+      "region": "Japan"
     },
     "profiles": [
       {
-        "network": "Bilibili",
-        "icon": "ri:bilibili-line",
+        "network": "Discord",
+        "icon": "simple-icons:discord",
         "username": "DasHund007",
-        "url": "https://space.bilibili.com/480025691"
+        "url": ""
       },
       {
-        "network": "QQ",
-        "icon": "ri:qq-fill",
-        "username": "Gong_cx",
-        "url": "https://admin.qidian.qq.com/static_proxy/b2b-qq/wpa-link/index.html#/person?uin=3175992523"
+        "network": "Signal",
+        "icon": "simple-icons:signal",
+        "username": "dashund.07",
+        "url": "https://signal.me/#eu/FzKBzrOah4veSAZTXZ7M6U3W1duFPhjiEQ4mSfSjdUkixyG5mJBIKrvT70G-9Ov2"
+      },
+      {
+        "network": "Telegram",
+        "icon": "simple-icons:telegram",
+        "username": "@dashund007",
+        "url": "https://t.me/dashund007"
+      },
+      {
+        "network": "Steam",
+        "icon": "simple-icons:steam",
+        "username": "DasHund007",
+        "url": "https://steamcommunity.com/id/DasHund007/"
       },
       {
         "network": "GitHub",
-        "icon": "mdi:github",
+        "icon": "simple-icons:github",
         "username": "DasHund007",
         "url": "https://github.com/DasHund007"
       }
-    ],
-    "beian": {
-      "mint": "赣ICP备2021005460号-1",
-      "police": "赣公网安备 36010302000349号"
-    }
+    ]
   },
   "images": {
     "intro": "Photography is the art of light, and images are the contours of memory.",
     "list": [
       {
-        "image": "https://i0.hdslb.com/bfs/article/6720a7355fd11b9666e2716cadf04e45480025691.jpg@90q_1e_1c.webp",
-        "alt": "Sunset in Nanchang",
-        "desc": "Shot on a sunny day in Nanchang. 2024.10.05"
+        "image": "/FTS Logo 5000x5000.png",
+        "alt": "Fujiwara Tofu Shop Logo",
+        "desc": "Fujiwara Tofu Shop Logo"
       },
       {
-        "image": "https://i0.hdslb.com/bfs/article/82f680f56532d942f74d86801abf49ea480025691.jpg@90q_1e_1c.webp",
-        "alt": "My Cat",
-        "desc": "A Ragdoll cat who stayed for a year. She's a girl."
+        "image": "/image-35.jpg",
+        "alt": "make sure to rev it to 11,000 rpm",
+        "desc": "one of the coolest scenes in Initial D"
       },
       {
-        "image": "https://i0.hdslb.com/bfs/article/14e6ae3c368b0eddeeb2b5c338239486480025691.jpg@90q_1e_1c.webp",
-        "alt": "Emoji",
-        "desc": "True, dude"
+        "image": "/initial-d-3-v0-spybzomj59eb1.jpg",
+        "alt": "bunta smoking",
+        "desc": "Bunta always smoking and reading the newspaper"
       },
       {
-        "image": "https://i0.hdslb.com/bfs/article/fe1737e9d7b6c2b21eedaf60b6dc9f86480025691.jpg@90q_1e_1c.webp",
-        "alt": "Cat Kernel Crashed",
-        "desc": "Cat Kernel Crashed"
+        "image": "/mai sakurajima wallpaper.jpg",
+        "alt": "Yuki Banner",
+        "desc": "Yuki Banner"
+      },
+      {
+        "image": "/mai sakurajima.jpg",
+        "alt": "Yuki Logo",
+        "desc": "Yuki Logo"
+      },
+      {
+        "image": "/raijin wallpaper.jpg",
+        "alt": "Shinigami Banner",
+        "desc": "Shinigami Banner"
+      },
+      {
+        "image": "/raijin.jpg",
+        "alt": "Shinigami Logo",
+        "desc": "Shinigami Logo"
+      },
+      {
+        "image": "/raijin2.jpg",
+        "alt": "Shinigami Logo",
+        "desc": "Shinigami Logo"
       }
     ]
   },
   "education": [
     {
-      "institution": "Nanchang No.27 Middle School",
+      "institution": "Primary School",
       "url": "",
       "area": "Regular Student",
       "studyType": "Full-time student",
-      "startDate": "2021-9-01",
+      "startDate": "2012-8-21",
+      "endDate": "2016-7-11"
+    },
+    {
+      "institution": "Middle School",
+      "url": "",
+      "area": "Regular Student",
+      "studyType": "Full-time student",
+      "startDate": "2017-8-29",
+      "endDate": "2022-6-27"
+    },
+    {
+      "institution": "Highschool",
+      "url": "",
+      "area": "Regular Student",
+      "studyType": "Full-time student",
+      "startDate": "2022-8-09",
+      "endDate": "2023-6-22"
+    },
+    {
+      "institution": "Vocational College",
+      "url": "",
+      "area": "Information Technology",
+      "studyType": "Full-time student",
+      "startDate": "2023-8-04",
       "endDate": null
     }
   ],
-  "certificates": [
+  "certificates": [  
     {
-      "name": "Success has lived a day in the world.",
-      "date": "2010-04-14",
-      "url": "",
-      "issuer": "Myself"
+      "name": "JavaScript Full-Stack Developer",
+      "date": "2022-04-01",
+      "url": "https://www.ihk.de/aachen",
+      "issuer": "IHK Aachen",
+      "description": "Certified full-stack developer specializing in JavaScript, Node.js, and modern web frameworks."
     },
     {
-      "name": "TCCP - Senior Cloud Architecture Engineer",
-      "date": "2023-05-01",
-      "url": "",
-      "issuer": "Tencent Cloud"
+      "name": "Certified FiveM Developer",
+      "date": "2022-11-20",
+      "url": "https://fivem.net",
+      "issuer": "FiveM Community",
+      "description": "Certified in FiveM server development and Lua scripting, specializing in custom server configurations and gameplay mechanics."
     }
   ],
   "work": [
     {
-      "name": "Sgguo Development Team",
-      "position": "Full-stack Developer",
+      "name": "Shinigami",
+      "position": "Founder & Full-stack Developer",
       "location_type": "Remote",
-      "location": "CN",
-      "url": "https://github.com/Sgguo-Development-Team",
-      "startDate": "2022-06-01",
+      "location": "JP",
+      "url": "https://www.fujiwaratofu.shop",
+      "startDate": "2021-01-01",
       "endDate": null,
       "summary": "Developing high-availability full-stack projects.",
       "highlights": [
@@ -122,13 +176,13 @@
       }
     },
     {
-      "name": "Riddle Town Team",
-      "position": "Full-stack Developer",
+      "name": "Fujiwara Tofu Shop",
+      "position": "Team Leader & Developer",
       "location_type": "Remote",
-      "location": "CN",
-      "url": "https://rth2.gcxstudio.cn",
-      "startDate": "2023-01-01",
-      "endDate": "2024-02-11",
+      "location": "JP",
+      "url": "https://rth2.gcxstudio.JP",
+      "startDate": "2023-07-22",
+      "endDate": null,
       "summary": "Led page design and account systems.",
       "highlights": [
         "Completed 95% of project content."
@@ -517,7 +571,7 @@
     {
       "name": "Riddle Town Hunt 2",
       "image": {
-        "url": "https://rth2-webstatic.gbclstudio.cn/wp-content/uploads/2024/02/1707656250-76b2b0d2c94824e89a2b8b2c7d1c6afe.png",
+        "url": "https://rth2-webstatic.gbclstudio.JP/wp-content/uploads/2024/02/1707656250-76b2b0d2c94824e89a2b8b2c7d1c6afe.png",
         "position": "background"
       },
       "isActive": false,
@@ -528,7 +582,7 @@
         "😊 Windows-like interface",
         "💕 Based on Astro"
       ],
-      "url": "https://rth2.gcxstudio.cn/"
+      "url": "https://rth2.gcxstudio.JP/"
     }
   ]
 }
