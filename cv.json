@@ -1,4 +1,4 @@
-{
+/{
   "analyticsCode": "",
   "pageLayout": "two-column",
   "basics": {
@@ -137,9 +137,9 @@
     },
     {
       "name": "JavaScript Full-Stack Developer",
-      "date": "2022-04-01",
-      "url": "https://www.ihk.de/aachen",
-      "issuer": "IHK Aachen",
+      "date": "2024-04-01",
+      "url": "https://www.teb-eu.eu/",
+      "issuer": "Thomas-Eßer-Berufskolleg",
       "description": "Certified full-stack developer specializing in JavaScript, Node.js, and modern web frameworks."
     }
   ],
